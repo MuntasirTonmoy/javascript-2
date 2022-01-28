@@ -1,12 +1,12 @@
-//Numeric
-// var indicates declaring a variable
+//Numeric - number value
 var watchPrice = 150;
+// var indicates declaring a variable
 watchPrice = 160; // value of variable can vary
 
-//string
-var name = 'Muntasir Tonmoy';
+//string 
+var name = 'Muntasir Tonmoy'; // if there is more than one letter then it is string
 
-// boolean
+// boolean - true or false
 var isExpensive = ture;
 
 // we can add two string
