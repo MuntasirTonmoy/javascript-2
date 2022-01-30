@@ -41,3 +41,5 @@ if (year % 4 == 0) {
 else {
     console.log('Not leap year');
 }
+
+// TODO. Search google about comparison operator in Javascript
